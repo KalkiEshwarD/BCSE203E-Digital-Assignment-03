@@ -1,0 +1,33 @@
+.counter {
+    margin: auto;
+    max-width: 300px;
+    border: 2px solid black;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.counter-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.btn-increment {
+    background-color: green;
+}
+
+
+.btn-decrement {
+    background-color: red;
+}
